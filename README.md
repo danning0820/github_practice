@@ -4,5 +4,5 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-> Danning Zhang
+> D a n n i n g Z h a n g
 
